@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
 <h4 align="center">Machine Learning | Web | Android development</h4>
 
-<img align="right" src="demo.gif" alt="animated" width="400" height="300"/>
+<img align="right" src="demo.gif" alt="animated" width="350" height="300"/>
 
 - 🌱 I’m currently pursuing my 3rd year in CVR College of Engineering as a   Computer Science Student
 
