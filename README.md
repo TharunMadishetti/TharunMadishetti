@@ -3,9 +3,9 @@
 
 <img align="right" src="demo.gif" alt="animated gif" width="390" height="300" margin="10px"/>
 
-- 🌱 I’m currently pursuing my 3rd year in CVR College of Engineering as a   Computer Science Student
+- 🌱 I’m currently pursuing my 4th year in CVR College of Engineering as a   Computer Science Student
 
-- 💞️ I’m looking to collaborate on few good projects
+- 💞️ I’m looking to collaborate on few good projects and gain experience in emerging tech
 
 - 😀 I love exploring new tech stack and building cool stuffs
 
