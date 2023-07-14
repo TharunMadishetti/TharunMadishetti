@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on few good projects and gain experience in emerging tech
 
-- 😀 I love exploring new tech stack and building cool stuffs
+- 😀 I love exploring new tech stack and building cool projects
 
 - 💬 Ask me about Sql, Java, C and Web development
 
