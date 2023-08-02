@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharun</h1>
+ <h1 align="center">Hi 👋, I'm Tharun Madishetti</h1>
 <h4 align="center">Machine Learning | Web | Android development</h4>
 
 <img align="right" src="demo.gif" alt="animated gif" width="390" height="300" margin="10px"/>
