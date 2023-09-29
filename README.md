@@ -35,3 +35,5 @@
 <h2>Github stats <img src='https://media1.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif' width="50px"> </h2>
 <img width="390" height="300"  src="https://streak-stats.demolab.com/?user=TharunMadishetti">
 </div>
+
+[![An image of @tharun_tej's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharun_tej)](https://holopin.io/@tharun_tej)
