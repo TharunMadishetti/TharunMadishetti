@@ -24,7 +24,7 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2><a class="header-badge" target="_blank" href="https://www.linkedin.com/in/tharunmadishetti1/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>				</h2><a class="header-badge" target="_blank" href="https://www.instagram.com/tharun.madishetty/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Instagram&logo=instagram&style=social"></a>		</h2><a class="header-badge" target="_blank" href="mailto:tharunmadishetti1@gmail.com"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Gmail&logo=gmail&style=social"></a>	
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2><a class="header-badge" target="_blank" href="https://www.linkedin.com/in/tharunmadishetti1/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>				</h2><a class="header-badge" target="_blank" href="https://www.instagram.com/tharun.madishetti/"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Instagram&logo=instagram&style=social"></a>		</h2><a class="header-badge" target="_blank" href="mailto:tharunmadishetti1@gmail.com"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Gmail&logo=gmail&style=social"></a>	
 </div>
 
 <div align='center'>
